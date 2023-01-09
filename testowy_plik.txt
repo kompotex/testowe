@@ -1,1 +1,3 @@
 To jest test pliku wysylanego na github
+a to jest druga linijka
+
